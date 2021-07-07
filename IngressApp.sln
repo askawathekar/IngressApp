@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patientapi", "patientapi\patientapi.csproj", "{54681900-3549-4DB0-8E0C-F217665D2004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doctorapi", "doctorapi\doctorapi.csproj", "{A874F077-17C0-43C7-9A08-09CC9E0C8F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54681900-3549-4DB0-8E0C-F217665D2004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54681900-3549-4DB0-8E0C-F217665D2004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54681900-3549-4DB0-8E0C-F217665D2004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54681900-3549-4DB0-8E0C-F217665D2004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A874F077-17C0-43C7-9A08-09CC9E0C8F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A874F077-17C0-43C7-9A08-09CC9E0C8F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A874F077-17C0-43C7-9A08-09CC9E0C8F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A874F077-17C0-43C7-9A08-09CC9E0C8F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF54B9C-4305-4FCB-B78E-9AF386D75FFD}
+	EndGlobalSection
+EndGlobal
